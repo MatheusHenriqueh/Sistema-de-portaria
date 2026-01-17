@@ -1,5 +1,5 @@
 #Sistema de Portaria.
-#Autor: Matheus Ruivo
+#Autor: Matheus Henrique
 #Data: 21/10/25
 
 entrada = input("Digite entrar, se quiser sair digite sair:")
@@ -20,4 +20,5 @@ if entrada == 'Entrar' or entrada =='entrar' or entrada == 'ENTRAR':#Sempre colo
 elif entrada == 'Sair' or 'sair' or 'SAIR':
     print("Ops, você saiu do sistema!")
 else:
+
     print("Digite entrar ou sair!")
