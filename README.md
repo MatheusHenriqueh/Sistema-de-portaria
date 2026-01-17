@@ -26,7 +26,7 @@ e decide se o portão deve ser aberto com base nas informações digitadas.
 ## 💻 Código principal
 ```python
 # Sistema de Portaria
-# Autor: Matheus Ruivo
+# Autor: Matheus Henrique
 # Data: 21/10/2025
 
 entrada = input("Digite 'entrar' ou 'sair': ").lower()
